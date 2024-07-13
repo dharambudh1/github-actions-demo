@@ -98,3 +98,8 @@ steps:
 This workflow automates the build, testing, and artifact generation process for a Flutter application on GitHub. It starts by setting up the Flutter environment, fetching dependencies, running tests, and then building both an APK and an App Bundle. Finally, it archives these artifacts (`app-release.apk` and `app-release.aab`) so they can be downloaded or deployed later.
 
 By triggering on pushes to `main` or `development` branches and on pull requests to these branches, this workflow ensures that changes are automatically validated and built for both development and potentially production environments. This setup helps streamline the development and release process for Flutter applications hosted on GitHub.
+
+## Preview
+![alt text](https://i.postimg.cc/XqXc1RGf/Screenshot-13-7-2024-205530-github-com.jpg "img")
+
+Link: https://github.com/dharambudh1/github-actions-demo/actions
